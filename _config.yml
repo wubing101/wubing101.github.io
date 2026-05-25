@@ -3,3 +3,11 @@ description: Notes on AI, formal verification, and engineering.
 url: "https://wubing101.github.io"
 theme: minima
 lang: zh-CN
+github_username: wubing101
+header_pages:
+  - index.md
+  - github.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from

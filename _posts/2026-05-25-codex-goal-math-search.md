@@ -2,6 +2,7 @@
 layout: post
 title: "和 Codex Goal 一起挖数学搜索空间：从 39 亿 pair 到 1.8 亿 residual"
 date: 2026-05-25
+lang: zh-CN
 description: "一次关于 goal-driven AI collaboration、Lean certificate 和大规模 solver engineering 的比赛复盘。"
 tags:
   - AI for Math
@@ -10,6 +11,8 @@ tags:
   - Formal Verification
   - Competition Engineering
 ---
+
+语言版本：中文 / [English]({% post_url 2026-05-25-codex-goal-math-search-en %})
 
 > 说明：这是一篇比赛进行期间可公开的技术文章。文中保留方法论、协作体验和聚合数量级；刻意省略当前 solver 的 predicate、proof template、shape 白名单、策略顺序、内部 endpoint、prompt、脚本参数和未发布数据。
 
